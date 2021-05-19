@@ -1,0 +1,27 @@
+Hospital Isidro Ayora;10;23,20
+Hospital General Manuel Ygnacio Monteros;12;55,50
+Hospital Dia Loja;60;180,00
+Hospital Isidro Ayora;10;23,20
+Hospital General Manuel Ygnacio Monteros;12;55,50
+Hospital Dia Loja;60;180,00
+Hospital Isidro Ayora;10;23,20
+Hospital General Manuel Ygnacio Monteros;12;55,50
+Hospital Dia Loja;60;180,00
+Hospital Isidro Ayora;10;23,20
+Hospital General Manuel Ygnacio Monteros;12;55,50
+Hospital Dia Loja;60;180,00
+Hospital Isidro Ayora;10;23,20
+Hospital General Manuel Ygnacio Monteros;12;55,50
+Hospital Dia Loja;60;180,00
+Hospital Isidro Ayora;10;23,20
+Hospital General Manuel Ygnacio Monteros;12;55,50
+Hospital Dia Loja;60;180,00
+Hospital Isidro Ayora;10;23,20
+Hospital General Manuel Ygnacio Monteros;12;55,50
+Hospital Dia Loja;60;180,00
+Hospital Isidro Ayora;10;23,20
+Hospital General Manuel Ygnacio Monteros;12;55,50
+Hospital Dia Loja;60;180,00
+Hospital Isidro Ayora;10;23,20
+Hospital General Manuel Ygnacio Monteros;12;55,50
+Hospital Dia Loja;60;180,00
